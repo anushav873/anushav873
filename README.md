@@ -1,12 +1,9 @@
-# Hey Everyone! I'm [anushav](https://github.com/anusha) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [anushav](https://github.com/anushav873) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... python.  .<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
-Tips and strategies for mastering Python.
-Practical approaches to task-based learning in programming.
-How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... anushavudumula@gmail.com
+- 🔭 I’m currently working on as a Software Engineer <br>- 🌱 I’m currently learning ... python.  .<br>
+📫 How to reach me: ... anushavudumula@gmail.com
 
 
 
